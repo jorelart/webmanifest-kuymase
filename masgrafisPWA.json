@@ -1,45 +1,48 @@
 {
-  "name": "MasGrafis Blog",
   "short_name": "MasGrafis",
-  "start_url": "https://www.masgrafis.online/",
-  "display": "standalone",
-   "background_color": "masukan nilai warna sesuai blog anda",
-  "theme_color": "silahkan atur warna temanya",
-  "description": "Silahkan masukan deskripsi blog anda",
-  "icons": [{
-    "src": "Url Icon favicon size 36x36",
-    "sizes": "36x36",
-    "type": "image/png",
-    "density": "0.75"
-  }, {
-    "src": "Url Icon favicon size 48x48",
-    "sizes": "48x48",
-    "type": "image/png",
-    "density": "1.0"
-  }, {
-    "src": "Url Icon favicon size 72x72",
-    "sizes": "72x72",
-    "type": "image/png",
-    "density": "1.5"
-  }, {
-    "src": "Url Icon favicon size 96x96",
-    "sizes": "96x96",
-    "type": "image/png",
-    "density": "2.0"
-  }, {
-    "src": "Url Icon favicon size 144x144",
-    "sizes": "144x144",
-    "type": "image/png",
-    "density": "3.0"
-  }, {
-    "src": "Url Icon favicon size 192x192",
-    "sizes": "192x192",
-    "type": "image/png",
-    "density": "4.0"
-  }, {
-    "src": "Url Icon favicon size 512x512",
-    "sizes": "512x512",
-    "type": "image/png",
-    "density": "5.0"
-  }]
-}
+  "name": "MasGrafis",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/FxmQd6ewaBeW-Ds6p8dkpqhz5rGcIx2YzrRMQstoRMa9s-_Pwy1-2psMzWYuBAc7GdB1egmKERnnrez0hw=s48-rw",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/4qum_9maKU_yKJ6WI9_c6EpklnsAYnG_t82Ck4xvtQ30BiF29iwuWmgfYKvL6EYKjbyVFxjEzklFt15r6A=s96-rw",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/0qz0pVY4DXqwcDoNxV4OPK6HGpnBggGjaolxMvIcFSe5E7m7aOQlNyP4LymYjB3J8YhPRaxyYnG1n7fk0Q=s128-rw",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/rdiirbYU-y5wrwafHqvVtCtGs3g3vd7wAOzFPF6Shaj8GXVxlS99cnAIadwg5MZxwCvXm3zLUxTFAuHLDA=s144-rw",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/Rp-pGzTJ9-2sMBgCmBQ_sCMDAorjLpRJJmQFft6c5LX8QvUZ2AbIz7KA__phMG0s7UyDJNBr2sNupEukcQ=s152-rw",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/3yjfPbF7yV8itQT91ZOd4Mr32oU-ghWVNcHat28kq2HGh-x56zlMq6RzlC8QUGboYLobyfQ_rdwj-hQNSQ=s192-rw",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/Ad77qjAmTVpDGeVqXn73WRKRIKDh6WkgwgEplrJF3v6zB1impMxCAhFEFNcQeUti_QdjmsGlmc9XDgkOhg=s220-rw",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#31de76",
+  "display":"standalone",
+  "orientation":"portrait",
+  "theme_color":"#31de76",
+  "start_url": "https://www.masgrafis.online/?m=1",
+  "scope": "https://www.masgrafis.online/"
+}  
+Related Posts
