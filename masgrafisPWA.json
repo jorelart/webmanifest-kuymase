@@ -38,10 +38,10 @@
       "sizes": "512x512"
     }
   ],
-  "background_color": "#31de76",
+  "background_color": "#fffb82",
   "display":"standalone",
   "orientation":"portrait",
-  "theme_color":"#31de76",
+  "theme_color":"#fffb82",
   "start_url": "https://www.masgrafis.online/?m=1",
   "scope": "https://www.masgrafis.online/"
 }
