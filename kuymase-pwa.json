@@ -1,0 +1,45 @@
+{
+  "name": "Kuymase.com",
+  "short_name": "Kuymase",
+  "start_url": "https://www.kuymase.com/",
+  "display": "standalone",
+   "background_color": "#fefefe",
+  "theme_color": "#89000",
+  "description": "Tips & Tutorial Blogger | Design | Tech | Jarigan | Gadget dan Lainya",
+  "icons": [{
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/apple-icon-114x114.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://github.com/leonjorel/favicon-kuymase/blob/474dfc27d0f7465310f75edc880c23e117abb304/web-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
