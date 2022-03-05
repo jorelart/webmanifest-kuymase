@@ -4,7 +4,7 @@
   "start_url": "https://www.kuymase.com/",
   "display": "standalone",
    "background_color": "#fefefe",
-  "theme_color": "#89000",
+  "theme_color": "#f89000",
   "description": "Tips & Tutorial Blogger | Design | Tech | Jarigan | Gadget dan Lainya",
   "icons": [{
     "src": "https://github.com/leonjorel/favicon-kuymase/blob/38fed83ab66a8b1f12f3f02a5aff1c3c94ac4bfa/android-icon-36x36.png",
