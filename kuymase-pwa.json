@@ -1,6 +1,6 @@
 {
-  "name": "Kuymase.com",
-  "short_name": "Kuymase",
+  "name": "kuymase.com",
+  "short_name": "kuymase",
   "start_url": "https://www.kuymase.com/",
   "display": "standalone",
    "background_color": "#fefefe",
